@@ -1,4 +1,3 @@
-# hello-world
-General repository for resources and exploration of concepts.
+# Miscellaneous Repo
 
-I've coded in Java, C++, and C. I am currently working with C# and want to pick up more languages.
+Contains snippets of different code projects. The full code projects are contained in private repositories for academic integrity purposes.
